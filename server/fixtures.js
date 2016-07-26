@@ -13,4 +13,4 @@ if (Posts.find().count() === 0) {
     title: 'Bloxie',
     url: 'http://bloxie.ec'
   });
-}
+};
