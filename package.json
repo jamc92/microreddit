@@ -1,5 +1,5 @@
 {
-  "name": "microscope",
+  "name": "microreddit",
   "private": true,
   "scripts": {
     "start": "meteor run"
