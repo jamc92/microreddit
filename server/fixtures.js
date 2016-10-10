@@ -11,6 +11,6 @@ if (Posts.find().count() === 0) {
 
   Posts.insert({
     title: 'Bloxie',
-    url: 'http://bloxie.ec'
+    url: 'http://bloxie.co'
   });
 };
